@@ -16,6 +16,7 @@ public:
 		head = NULL;
 		current = NULL;
 	}
+	//HFUASUFBNAUF
 
 
 

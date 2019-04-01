@@ -16,7 +16,6 @@ public:
 		head = NULL;
 		current = NULL;
 	}
-	//HFUASUFBNAUF
 
 
 
@@ -84,7 +83,7 @@ int main() {
 	l.display();
 
 
-
+	//hi
 
 
 	return 0;
